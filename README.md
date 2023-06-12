@@ -7,13 +7,13 @@ A learner mern stack project which implemented:
 --> forgot password 
 --> url shortener
 --> a tabular display of all the links created by the user
---> a graphical display of count of links created everyday for the last 31 dayys.
+--> a graphical display of count of links created everyday for the last 31 days.
 
 
 
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file
+To run this project, you will need to add the following environment variables to your .env file in your backend
 
 `EMAIL` --> sender email for actiation links nd forgot passwword links
 `PASSWORD` -->app password generated on google account for gmail app 
